@@ -1,1 +1,1 @@
-# BridgeLabz Training Repo
+# Java Fundamental
